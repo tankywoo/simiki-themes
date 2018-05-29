@@ -4,3 +4,6 @@
 [submodule "yasimple_x2"]
 	path = yasimple_x2
 	url = https://github.com/tankywoo/yasimple_x2.git
+[submodule "simplex"]
+	path = simplex
+	url = https://github.com/zhangjie2012/simplex.git
